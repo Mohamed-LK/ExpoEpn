@@ -1,0 +1,50 @@
+.diapo{
+    position: relative;
+    overflow: hidden;
+    width: 80vw;
+
+}
+
+#nav-droite, #nav-gauche{
+    position: absolute;
+    top: 50%;
+    background-color: rgba(255,255,255,0.4);
+}
+
+#nav-droite{
+    right: 20px;
+}
+#nav-gauche{
+    left: 20px;
+}
+
+.elements{
+    display: flex;
+    transition: 1s linear;
+}
+
+.element{
+    flex: 1 0 100%;
+    position: relative;
+}
+
+.element > img{
+    width: 100%;
+}
+
+.caption{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    background-color: rgba(255,255,255,0.4);
+    padding: 30px;
+}
+
+.arrow{
+
+    width: 50px;
+    cursor: pointer;
+    
+}

@@ -1,0 +1,16 @@
+Enregistrer code sur GitHub :
+
+-enregistrez
+
+commit : 
+-allez dans les branches
+-choisir fichier qu'on veut commuter
+- mettre un message
+
+Valider
+
+Commande terminal : 
+
+git push origin master
+
+-
