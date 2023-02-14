@@ -14,3 +14,14 @@ Commande terminal :
 git push origin master
 
 -
+
+----------------------------------------------------------------------------
+
+Pour faire un site responsive, vous pouvez suivre les étapes suivantes :
+
+1 - Utilisez des technologies de mise en page flexibles telles que CSS Flexbox ou CSS Grid pour permettre aux éléments du site de s'adapter aux différentes tailles d'écran.
+2 - Utilisez des images de taille appropriée et réduisez-les en fonction de la taille de l'écran pour optimiser les temps de chargement de la page.
+3 - Utilisez des unités de mesure adaptatives telles que les pourcentages ou les ems au lieu de pixels pour les éléments de mise en page, ce qui permettra une mise en page plus flexible et adaptable.
+4 - Testez votre site sur différents appareils tels que des ordinateurs de bureau, des smartphones et des tablettes pour vous assurer qu'il s'affiche correctement sur tous les écrans.
+5 - Utilisez des outils tels que les media queries pour ajuster la mise en page en fonction de la taille de l'écran de l'utilisateur.
+6 - En suivant ces étapes, vous pouvez créer un site responsive qui s'adapte à toutes les tailles d'écran.
