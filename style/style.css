@@ -90,12 +90,9 @@ body {
     height: 1000vw;
 }
 
-.imageSiteHaut img {
+.Imagetheme img {
 
-   width: 200px;
-   justify-content: space-between;
-   padding: 0 30px 0 0;
-   text-align: center;
+   width: 100px;
 }
 
 .menuIcone {
