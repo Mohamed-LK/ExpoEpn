@@ -25,3 +25,5 @@ Pour faire un site responsive, vous pouvez suivre les étapes suivantes :
 4 - Testez votre site sur différents appareils tels que des ordinateurs de bureau, des smartphones et des tablettes pour vous assurer qu'il s'affiche correctement sur tous les écrans.
 5 - Utilisez des outils tels que les media queries pour ajuster la mise en page en fonction de la taille de l'écran de l'utilisateur.
 6 - En suivant ces étapes, vous pouvez créer un site responive qui s'adapte à toutes les tailles d'écran.
+
+https://www.photofiltre-studio.com/download.htm
